@@ -47,10 +47,7 @@ cond.prob = function(model, newdata, Tstart, Tpred){
 
 td_comparison = function(data, models, Tstart=0, u, n.folds=5, status='status', time='time'){
   
-  #set.seed(123)
-  #set.seed(1111)
-  #set.seed(12345) #ok
-  set.seed(1001)
+  set.seed(12345)
   data = data[sample(1:dim(data)[1]),]
   folds = cut(seq(1,dim(data)[1]),breaks=n.folds,labels=FALSE)
   
