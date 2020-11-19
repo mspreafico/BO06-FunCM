@@ -2,7 +2,7 @@
 
 Code for implementing Multivariate Functional Linear Cox Regression Model (MFLCRM) applied to MRC BO06 trial in Osteosarcoma.
 
-Data are not online available due to confidentiality.
+Data are not available online due to confidentiality.
 
 
 ## Description
