@@ -14,4 +14,4 @@ Data are not online available due to confidentiality.
   - 04_final_MFLCRM.R: The best MFLCRM given is fitted on the whole dataset in order to quantify the association between time-varying processes and patients' long-term survival.
 - Sub-folder ./utils/ contains support functions for reconstructing functional data and their derivatives and conducting analyses.
 
-(Last update: Novembre 19th, 2020)
+(Last update: November 19th, 2020)
