@@ -12,6 +12,6 @@ Data are not online available due to confidentiality.
   - 02_fpca.R: Functional Principal Component Analysis (FPCA) is applied to functional data.
   - 03_MFLCRM_selection.R: K-fold cross validation is applied to select the best set of covariates and the truncation parameters  to consider for each process, according to time-dependent AUC and Brier score.
   - 04_final_MFLCRM.R: The best MFLCRM given is fitted on the whole dataset in order to quantify the association between time-varying processes and patients' long-term survival.
-- Sub-folder ./utils_function/ contains support functions for reconstruction functional data and their derivatives and conducting analyses.
+- Sub-folder ./utils/ contains support functions for reconstructing functional data and their derivatives and conducting analyses.
 
 (Last update: Novembre 19th, 2020)
