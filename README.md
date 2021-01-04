@@ -17,7 +17,7 @@ Data are not available online due to confidentiality.
 - Sub-folder ./utils/ contains support functions for reconstructing functional data and their derivatives and conducting analyses.
 
 
-### References
+## References
 Lewis IJ, Nooij MA, Whelan J, et al. (2007). Improvement in histologic response but not survival in osteosarcoma patients treated with intensified chemotherapy: a randomized phase III trial of the European Osteosarcoma Intergroup. Journal of the National Cancer Institute, 99(2):112-128. doi:10.1093/jnci/djk015
 
 (Last update: January 4th, 2021)
