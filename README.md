@@ -2,6 +2,8 @@
 
 Code for implementing Multivariate Functional Linear Cox Regression Model (MFLCRM) applied to MRC BO06 trial in Osteosarcoma.
 
+Details related to the primary analysis of the MRC BO06/EORTC 80931 Randomized Controlled Trial can be found in Lewis et al. (2007).
+
 Data are not available online due to confidentiality.
 
 
@@ -14,4 +16,8 @@ Data are not available online due to confidentiality.
   - 04_final_MFLCRM.R: The best MFLCRM is fitted on the whole dataset in order to quantify the association between time-varying processes and patients' long-term survival.
 - Sub-folder ./utils/ contains support functions for reconstructing functional data and their derivatives and conducting analyses.
 
-(Last update: November 19th, 2020)
+
+### References
+Lewis IJ, Nooij MA, Whelan J, et al. (2007). Improvement in histologic response but not survival in osteosarcoma patients treated with intensified chemotherapy: a randomized phase III trial of the European Osteosarcoma Intergroup. Journal of the National Cancer Institute, 99(2):112-128. doi:10.1093/jnci/djk015
+
+(Last update: January 4th, 2021)
