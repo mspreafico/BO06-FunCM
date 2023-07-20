@@ -2,7 +2,8 @@
 
 Code for implementing Functional covariate Cox Model (FunCM) applied to MRC BO06 trial in Osteosarcoma to represent time-varying covariates by means of Functional Data Analysis and to include them into survival models (i.e., Multivariate Functional Linear Cox Regression Model - MFLCRM).
 
-Data are not publicly available due to confidentiality and privacy restrictions.
+## Reference
+Spreafico, M., Ieva, F. & Fiocco, M. (2023). Modelling time-varying covariates effect on survival via functional data analysis: application to the MRC BO06 trial in osteosarcoma. *Statistical Methods & Applications*, **32**:271–298. doi: 10.1007/s10260-022-00647-0
 
 
 ## Description
@@ -18,10 +19,8 @@ Data are not publicly available due to confidentiality and privacy restrictions.
 
 File **sessionInfo.txt** contains a list of code configurations [software, software version (incl. package versions), platform].
 
+## Data Availability
 
-## References
-Details related to the primary analysis of the MRC BO06/EORTC 80931 Randomized Controlled Trial can be found in:
+Data are not publicly available due to confidentiality and privacy restrictions.
 
-Lewis, I.J., Nooij, M.A., Whelan, J., *et al.* (2007). Improvement in histologic response but not survival in osteosarcoma patients treated with intensified chemotherapy: a randomized phase III trial of the European Osteosarcoma Intergroup. *Journal of the National Cancer Institute*, 99(2):112-128. doi:10.1093/jnci/djk015
-
-(Last update: October 29th, 2021)
+(Last update: July 20th, 2023)
